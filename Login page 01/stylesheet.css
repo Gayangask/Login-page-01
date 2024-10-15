@@ -1,0 +1,181 @@
+#form{
+    border-color: rgb(206, 192, 248);
+    border-style: solid;
+    border-width: 2px;
+    width: 400px;
+    height: 600px;
+    border-radius: 10px;
+    padding:30px;
+    color: rgb(0, 2, 3);
+    backdrop-filter: blur(20px);
+    margin-top:40px;
+    margin-right: 20px;
+    box-shadow: 0 0 30px black;
+    
+    
+    
+ 
+
+}#body{
+  background-image: url("galaxy1.jfif");
+  object-fit:fill;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  
+
+    
+
+ 
+
+}#logo{margin-bottom: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    display:block;
+    width: 80px;
+       
+    
+    
+}#logo1{width:200px;
+    height: 200px;
+    margin-left: 20px;
+    display:block;
+    
+    
+    
+}#h3{
+       display: block;
+
+
+
+    
+    
+}h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:aliceblue;
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 70px;
+    margin-top: 0%;
+
+
+}#username{
+    width: 90%;
+    padding:10px;
+    margin-bottom: 40px;
+    outline: none;
+    background: transparent;
+    color:rgb(255, 255, 255);
+    border-style: solid;
+    border-color: rgb(206, 192, 248);
+    border-radius: 20px;
+    font-size: medium;
+       
+    
+    
+}#username:focus{
+    box-shadow: 0 0 30px rgb(0, 0, 0);
+
+
+
+}#username:hover{
+    box-shadow: 0 0 30px rgb(0, 0, 0);
+}
+
+#password{
+    width: 90%;
+    padding:10px;
+    margin-bottom: 40px;
+    outline: none;
+    background: transparent;
+    color:rgb(255, 255, 255);
+    border-style: solid;
+    border-color: rgb(206, 192, 248);
+    border-radius: 20px;
+    font-size: medium;
+       
+    
+    
+}#password:focus{
+    box-shadow: 0 0 30px rgb(0, 0, 0);
+
+
+
+}#password:hover{
+    box-shadow: 0 0 30px rgb(0, 0, 0);
+}#checkbox{
+    accent-color: blue;
+
+
+
+
+}#reme{
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+   
+    
+
+
+
+}#btn{
+    margin-top: 50px;
+    width: 100%;
+    padding:10px;
+    border-radius: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    outline:none;
+    border-color: aliceblue;
+    font-weight: bold;
+    background-color: rgb(231, 225, 249);
+    color: rgb(67, 20, 111);
+
+}#btn:hover{
+    box-shadow: 0 0 30px  rgb(149, 120, 243);
+    cursor:pointer;
+    
+    
+    
+}#btn:active{
+    outline: none;
+    border-color: blueviolet;
+    border-width: 3px;
+
+
+
+
+}#fpass{
+    text-decoration: none;
+    text-align: right;
+    color:aliceblue;
+    margin-left: 140px;
+    
+
+
+
+}#fpass:hover{
+
+    color:rgb(8, 1, 1);
+    text-decoration: underline;
+   
+    padding:8px;
+}#reg{color:aliceblue;
+    text-align: center;
+
+
+
+
+}.reglink{color: aliceblue;
+    text-decoration: none;
+    margin-left: 8px;;
+
+
+
+}.reglink:hover{
+    color:rgb(219, 250, 255);
+    text-decoration: underline;
+   
+    padding-left: 8px;
+}
